@@ -1,6 +1,6 @@
-# PDF Editor
+# PdfEditor
 
-No install. No server. ¯\\\_(ツ)\_/¯ https://pdfeditor.vercel.app
+ https://pdfeditor.vercel.app
 ![It just works!](https://i.imgur.com/m3weLXQ.gif)
 
 ## How to use pdf-editor?
@@ -19,5 +19,3 @@ No install. No server. ¯\\\_(ツ)\_/¯ https://pdfeditor.vercel.app
 - 支援中文（標楷體）。
 
 ---
-
-LICENSE MIT © 2020 ShizukuIchi
