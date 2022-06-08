@@ -1,3 +1,4 @@
+// Pdf Editor
 import App from './App.svelte';
 import prepareAssets from './utils/prepareAssets.js';
 
